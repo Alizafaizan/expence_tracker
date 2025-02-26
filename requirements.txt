@@ -3,3 +3,5 @@ pandas==2.0.3
 plotly==5.15.0
 fpdf2==2.7.4
 numpy==1.26.4
+Pillow==9.5.0
+
