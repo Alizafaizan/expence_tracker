@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import datetime
 import plotly.express as px
-from fpdf import FPDF  # For generating PDFs
+from fpdf2 import FPDF   # For generating PDFs
 
 # Initialize session state for expense tracking
 if 'transactions' not in st.session_state:
